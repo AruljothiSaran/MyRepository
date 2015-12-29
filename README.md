@@ -1,2 +1,2 @@
 # MyRepository
-my sample repository
+my sample repository training github
